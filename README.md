@@ -1,6 +1,6 @@
 # Shizzle #
 
-Shizzle is a simple, opinionated, high-performance REST library using Jackson for JSON serialization and Netty for HTTP transport.
+Shizzle is an __example of__ a simple, opinionated REST library using Jackson for JSON serialization and Netty for HTTP transport. Not intended for public purpose since limited in functionalities.
 
 ```java
 SslConfig sslConfig = SslConfig.selfSigned();
